@@ -1,0 +1,3 @@
+[submodule "booking"]
+	path = booking
+	url = https://github.com/Gaurav-9810/hotelfrontend.git
